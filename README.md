@@ -1,8 +1,8 @@
 ### Olá! Eu sou Dionnatan Pereira
 
-- 🌱 Cursando uma formação em FullStack Jr.
-- 📫 Pode me contactar em: dionn_a.p@hotmail.com
-- 😄 Atualmente estudando HTML, CSS, JavaScript, Java
+- 🌱 Desenvolvedor FullStack Jr.
+- 📫 Pode me contactar em: dionnatan_dev@hotmail.com
+- 😄 Atualmente estudando HTML, CSS, JavaScript, React, React Native, Node, Postgres
 
 <div style="display: block">
   <a href="https://github.com/Dionn-AP">
